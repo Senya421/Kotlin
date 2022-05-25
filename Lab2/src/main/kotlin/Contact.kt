@@ -1,0 +1,1 @@
+data class Contact(var name : String = "name", var number: String = "number" )
