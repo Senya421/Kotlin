@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MyProjectKtTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-02T06:51:33" hostname="PC" time="1.122">
+  <properties/>
+  <testcase name="main()" classname="MyProjectKtTest" time="1.122"/>
+  <system-out><![CDATA[sun.net.www.protocol.https.DelegateHttpsURLConnection:https://my-json-server.typicode.com/kotlin-hands-on/kotlinconf-json/videos/1
+200
+OK
+{"id":1,"videoUrl":"https://www.youtube.com/watch?v=PsaFVLr8t4E","title":"Conference Opening Keynote","speaker":"Andrey Breslav"}
+MyProject(id=1, videoUrl=https://www.youtube.com/watch?v=PsaFVLr8t4E, title=Conference Opening Keynote, speaker=Andrey Breslav)
+MyProject(id=1, videoUrl=https://www.youtube.com/watch?v=PsaFVLr8t4E, title=Conference Opening Keynote, speaker=Andrey Breslav)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,6 @@
+Ñsun.net.www.protocol.https.DelegateHttpsURLConnection:https://my-json-server.typicode.com/kotlin-hands-on/kotlinconf-json/videos/1
+200
+OK
+É{"id":1,"videoUrl":"https://www.youtube.com/watch?v=PsaFVLr8t4E","title":"Conference Opening Keynote","speaker":"Andrey Breslav"}
+ÅMyProject(id=1, videoUrl=https://www.youtube.com/watch?v=PsaFVLr8t4E, title=Conference Opening Keynote, speaker=Andrey Breslav)
+ÅMyProject(id=1, videoUrl=https://www.youtube.com/watch?v=PsaFVLr8t4E, title=Conference Opening Keynote, speaker=Andrey Breslav)
